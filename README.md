@@ -19,7 +19,7 @@ Blinker is a lightweight, cross-platform text editor built with Java Swing. It p
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mwiza-Sichinga/Blinker.git
+    git clone https://github.com/rooktechCo/Blinker.git  
    cd Blinker
    ```
 2. Build the project using Maven:
