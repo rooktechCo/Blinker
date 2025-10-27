@@ -51,7 +51,7 @@ Contributions are welcome! To contribute:
 Please ensure your code follows the project's coding standards and includes tests where applicable.
 
 ## License
-This project is licensed under the [Gnu](LICENSE). See the LICENSE file for details.
+This project is licensed under the [ GNU GENERAL PUBLIC ](LICENSE). See the LICENSE file for details.
 
 ## Author
 Mwiza Sichinga, Software Engineer at Rook Technologies
